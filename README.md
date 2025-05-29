@@ -132,7 +132,7 @@ The data includes:
 ├── 2.Data_preprocessing.py  
 ├── 3.Model_training.py  
 ├── presentation  
-│    ├── Predictive_Maintenance_using_ML.pptx  
+│    ├── Predicting loan default using machine learning.pptx  
 ```
 
 ---
